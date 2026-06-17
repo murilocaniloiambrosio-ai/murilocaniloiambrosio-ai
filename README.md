@@ -1,18 +1,17 @@
-[README.md](https://github.com/user-attachments/files/29026242/README.md)
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,40:6C3BD5,80:8B5CF6,100:A78BFA&height=220&section=header&text=Murilo%20Caniloi&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Integration%20%7C%20Process%20Automation&descAlignY=58&descSize=19&descColor=C4B5FD" width="100%"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=720&height=52&lines=Full+Stack+Developer+%F0%9F%9A%80;AI+%26+Automation+Engineer+%F0%9F%A4%96;React+%7C+Angular+%7C+Python+%7C+Node.js;Building+Intelligent+Systems+%E2%9A%99%EF%B8%8F;ADS+%40+Colégio+ENIAC+%E2%80%94+Final+Semester+%F0%9F%8E%93;Open+to+New+Opportunities+%F0%9F%93%A9" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=720&height=52&lines=Full+Stack+Developer;AI+%26+Automation+Engineer;React+%7C+Angular+%7C+Python+%7C+Node.js;Building+Intelligent+Systems;ADS+%40+Colegio+ENIAC+-+Final+Semester;Open+to+New+Opportunities" alt="Typing SVG"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/ADS-Colégio%20ENIAC-6C3BD5?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ADS-Colegio%20ENIAC-6C3BD5?style=flat-square&logoColor=white"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Guarulhos%2C%20SP-Brasil%20%F0%9F%87%A7%F0%9F%87%B7-8B5CF6?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Guarulhos%2C%20SP-Brasil-8B5CF6?style=flat-square&logoColor=white"/>
   &nbsp;
   <img src="https://img.shields.io/badge/Status-Open%20to%20Work-22c55e?style=flat-square&logoColor=white"/>
 </div>
@@ -28,8 +27,8 @@
     <img src="https://img.shields.io/badge/GitHub-murilocaniloiambrosio--ai-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="mailto:SEU_EMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="mailto:murilocaniloi@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-murilocaniloi-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>
 
@@ -45,11 +44,11 @@
 
 ---
 
-## 👤 About Me
+## About Me
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=murilocaniloiambrosio-ai&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=A78BFA&text_color=C9D1D9&count_private=true&rank_icon=github" width="420"/>
 
-I'm a **Full Stack Developer & AI Integration Engineer** based in Guarulhos, SP, Brazil — currently finishing my final semester of **Systems Analysis and Development (ADS)** at Colégio ENIAC.
+I'm a **Full Stack Developer & AI Integration Engineer** based in Guarulhos, SP, Brazil — currently finishing my final semester of **Systems Analysis and Development (ADS)** at Colegio ENIAC.
 
 I build **intelligent web applications**, automate business workflows using AI, and deliver production-grade solutions for real clients. My work combines solid software engineering foundations with modern AI tooling to create meaningful, measurable impact.
 
@@ -59,17 +58,17 @@ I'm also the creator of **DEVFORGE** — a personal creative tech brand with a d
 
 <br/>
 
-**🔍 Open To:**
+**Open To:**
 - Junior / Pleno Full Stack Developer
 - Frontend Engineer (React / Angular)
 - AI & Automation roles
-- Remote or hybrid — São Paulo metro area
+- Remote or hybrid — Sao Paulo metro area
 
 <br clear="right"/>
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**
 
@@ -121,7 +120,7 @@ I'm also the creator of **DEVFORGE** — a personal creative tech brand with a d
 
 ---
 
-## 🤖 AI & Automation Expertise
+## AI & Automation Expertise
 
 <div align="center">
 
@@ -138,14 +137,14 @@ I'm also the creator of **DEVFORGE** — a personal creative tech brand with a d
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <details>
-<summary><strong>🏗️ DEVFORGE — Creative Tech Brand & Portfolio Platform</strong></summary>
+<summary><strong>DEVFORGE — Creative Tech Brand & Portfolio Platform</strong></summary>
 
 <br/>
 
-A full cyberpunk-aesthetic creative brand platform engineered from scratch as an independent passion project. DEVFORGE represents original UI engineering pushed to its limits — immersive animations, a coherent neon design system, and a visual identity strong enough to stand as a product on its own.
+A full cyberpunk-aesthetic creative brand platform engineered from scratch as an independent passion project. DEVFORGE showcases original UI engineering pushed to its limits — immersive animations, a coherent neon design system, and a visual identity strong enough to stand as a product on its own.
 
 <div align="center">
 
@@ -167,22 +166,22 @@ Built as a statement of personal brand engineering — combining advanced CSS ke
 ---
 
 <details>
-<summary><strong>⚙️ Liftmax Platform — Industrial Client Web Solution</strong></summary>
+<summary><strong>Liftmax Platform — Industrial Client Web Solution</strong></summary>
 
 <br/>
 
-End-to-end web platform and process automation suite developed for Liftmax Empilhadeiras e Paleteiras — an industrial equipment company in São Paulo. Covers digital presence, automated PDF generation, and operational workflow automation.
+End-to-end web platform and process automation suite developed for Liftmax Empilhadeiras e Paleteiras — an industrial equipment company in Sao Paulo. Covers digital presence, automated PDF generation, and operational workflow automation.
 
 <div align="center">
 
 | Attribute | Details |
 |-----------|---------|
 | **Stack** | React · Vite · Python · ReportLab · n8n · FFmpeg |
-| **Client** | Liftmax Empilhadeiras e Paleteiras — São Paulo, SP |
+| **Client** | Liftmax Empilhadeiras e Paleteiras — Sao Paulo, SP |
 | **Scale** | Production · Active client deployment |
-| **Performance** | Automated quote generation under 2s · PDF output with custom typography |
+| **Performance** | Automated quote generation · PDF output with custom typography |
 | **Security** | `.env` isolation · Secure API key lifecycle management |
-| **Impact** | Reduced manual work · Branded digital presence · Promotional video pipeline |
+| **Impact** | Automated manual work · Branded digital presence · Promotional video pipeline |
 | **Repository** | [github.com/murilocaniloiambrosio-ai/lifmax](https://github.com/murilocaniloiambrosio-ai/lifmax) |
 
 </div>
@@ -195,7 +194,7 @@ Engineered a full digital operations pipeline: branded website, automated PDF bu
 ---
 
 <details>
-<summary><strong>💰 App Financeiro — Personal Finance Web App</strong></summary>
+<summary><strong>App Financeiro — Personal Finance Web App</strong></summary>
 
 <br/>
 
@@ -218,7 +217,7 @@ A clean, production-deployed personal finance management SPA. Built with a compo
 ---
 
 <details>
-<summary><strong>🗓️ Daily Planner — Productivity Application</strong></summary>
+<summary><strong>Daily Planner — Productivity Application</strong></summary>
 
 <br/>
 
@@ -240,7 +239,7 @@ A productivity-focused daily planner with a clean, minimal UI and persistent sta
 ---
 
 <details>
-<summary><strong>🤖 Python RPA Automation Bot — AI-Powered Business Automation</strong></summary>
+<summary><strong>Python RPA Automation Bot — AI-Powered Business Automation</strong></summary>
 
 <br/>
 
@@ -263,7 +262,7 @@ A Python-based Robotic Process Automation bot integrating AI APIs for intelligen
 ---
 
 <details>
-<summary><strong>🎮 DungeonCrawler — Game Development Project</strong></summary>
+<summary><strong>DungeonCrawler — Game Development Project</strong></summary>
 
 <br/>
 
@@ -283,20 +282,19 @@ An ongoing game development project exploring interactive systems design, game l
 
 ---
 
-## 💼 Experience
+## Experience
 
 ### Freelance Software Developer — Liftmax Empilhadeiras e Paleteiras
-**São Paulo, SP · 2024 – Present · Remote/Hybrid**
+**Sao Paulo, SP · 2024 – Present · Remote/Hybrid**
 
-> Industrial equipment company specializing in forklifts and pallet jack services across the greater São Paulo metropolitan area.
+> Industrial equipment company specializing in forklifts and pallet jack services across the greater Sao Paulo metropolitan area.
 
 - Developed and maintained the company's web platform, digital brand presence, and marketing assets
 - Engineered automated PDF quote generation system using Python (ReportLab + Montserrat typography)
 - Built n8n workflow automation pipelines for internal operational efficiency
 - Produced branded promotional video content with animated text overlays (FFmpeg, portrait 4K)
-- Designed and maintained strict-layout maintenance documentation templates (orçamentos, termos de devolução)
+- Designed and maintained strict-layout maintenance documentation templates
 - Managed API key lifecycle and environment security across all production integrations
-- Researched industrial equipment suppliers and technical components for procurement support
 
 <div align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
@@ -305,29 +303,27 @@ An ongoing game development project exploring interactive systems design, game l
   <img src="https://img.shields.io/badge/ReportLab-PDF%20Engine-8B5CF6?style=flat-square&logoColor=white"/>
   <img src="https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white"/>
   <img src="https://img.shields.io/badge/Process%20Automation-6C3BD5?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
 </div>
 
 ---
 
-## 🎓 Education
+## Education
 
-### Análise e Desenvolvimento de Sistemas — ADS
-**Colégio ENIAC · Guarulhos, SP · 2023 – 2025 (Final Semester)**
+### Analise e Desenvolvimento de Sistemas — ADS
+**Colegio ENIAC · Guarulhos, SP · 2023 – 2025 (Final Semester)**
 
 - Data Structures (C/Python): stacks, queues, binary search trees, hash tables, dynamic linked lists
 - NoSQL Databases: Neo4j/Cypher, MongoDB, Cassandra, RDF/SPARQL, Native XML/XPath
 - Web Development: Bootstrap 4, Angular 19, REST APIs, JWT authentication
 - HCI/UX: Nielsen's heuristics, design lifecycle models, prototyping fidelity
 - Algorithm Analysis: Big-O complexity, algorithm design and performance evaluation
-- Web Services: REST API design, Sprint methodology, technical documentation
 
-### Ensino Médio Técnico em Informática
-**Colégio ENIAC · Guarulhos, SP**
+### Ensino Medio Tecnico em Informatica
+**Colegio ENIAC · Guarulhos, SP**
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=murilocaniloiambrosio-ai&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=A78BFA&text_color=C9D1D9&count_private=true" height="180"/>
@@ -343,7 +339,7 @@ An ongoing game development project exploring interactive systems design, game l
 
 ---
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=murilocaniloiambrosio-ai&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8"/>
@@ -351,7 +347,7 @@ An ongoing game development project exploring interactive systems design, game l
 
 ---
 
-## 📈 Contribution Activity
+## Contribution Activity
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=murilocaniloiambrosio-ai&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=ffffff&area=true&hide_border=true&area_color=6C3BD520&custom_title=Contribution%20Graph" width="100%"/>
@@ -359,53 +355,45 @@ An ongoing game development project exploring interactive systems design, game l
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/murilocaniloiambrosio-ai/murilocaniloiambrosio-ai/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation"/>
-</div>
-
----
-
-## 🎯 Current Focus
+## Current Focus
 
 ```yaml
 learning:
-  - Data Structures & Algorithm Analysis — ADS Final Semester (C / Python)
+  - Data Structures & Algorithm Analysis - ADS Final Semester (C / Python)
   - Multi-Agent AI Systems & Agentic Orchestration
-  - TypeScript — Advanced Patterns & Type-safe APIs
+  - TypeScript - Advanced Patterns & Type-safe APIs
   - System Design & Software Architecture
 
 building:
-  - DEVFORGE — Creative tech brand platform (v2)
+  - DEVFORGE - Creative tech brand platform (v2)
   - AI-powered business automation pipelines
-  - notaflux — Personal fintech project
-  - DungeonCrawler — Game development exploration
+  - notaflux - Personal fintech project
+  - DungeonCrawler - Game development exploration
 
 exploring:
-  - Claude Code CLI — Agentic development workflows
+  - Claude Code CLI - Agentic development workflows
   - Docker & Container orchestration
-  - Neo4j at scale — Graph data modeling
-  - Full Stack TypeScript — End-to-end type safety
+  - Neo4j at scale - Graph data modeling
+  - Full Stack TypeScript - End-to-end type safety
 
 open_to:
   - Full Stack Developer (Junior / Pleno)
   - Frontend Engineer (React / Angular)
   - AI Integration & Automation roles
-  - Remote or hybrid — São Paulo metro area, BR
+  - Remote or hybrid - Sao Paulo metro area, BR
 ```
 
 ---
 
-## 🤝 Connect
+## Connect
 
 <div align="center">
 
 | Platform | Link |
 |----------|------|
-| 💼 **LinkedIn** | [linkedin.com/in/murilo-caniloi-06a3a82b7](https://linkedin.com/in/murilo-caniloi-06a3a82b7) |
-| 🐙 **GitHub** | [github.com/murilocaniloiambrosio-ai](https://github.com/murilocaniloiambrosio-ai) |
-| 📧 **Email** | [SEU_EMAIL@gmail.com](mailto:SEU_EMAIL@gmail.com) |
+| LinkedIn | [linkedin.com/in/murilo-caniloi-06a3a82b7](https://linkedin.com/in/murilo-caniloi-06a3a82b7) |
+| GitHub | [github.com/murilocaniloiambrosio-ai](https://github.com/murilocaniloiambrosio-ai) |
+| Email | [murilocaniloi@gmail.com](mailto:murilocaniloi@gmail.com) |
 
 </div>
 
